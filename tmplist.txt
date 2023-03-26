@@ -1,0 +1,8 @@
+12345
+dir1
+file1
+file2
+file3
+filenew
+new
+tmplist.txt
